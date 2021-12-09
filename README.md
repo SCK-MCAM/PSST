@@ -17,5 +17,5 @@
 　大文字英数字<br>
 　記号【()[]<>@=+-/,.!?#$%&~^_'】<br>
 　<br>
-　無線用語【≪AR≫, ≪AS≫, ≪BK≫, ≪CFM≫, ≪COL≫, ≪NO≫, ≪NW≫, ≪OK≫, ≪PSE≫, ≪RQ≫, ≪RPT≫, ≪SVC≫, ≪TFC≫, ≪DE≫, ≪TU≫, ≪TXT≫, ≪VA≫, ≪KA≫, ≪SPACE≫, ≪QSU≫, ≪QSW≫, ≪QSX≫】<br>
+　無線用語他【≪AR≫, ≪AS≫, ≪BK≫, ≪CFM≫, ≪COL≫, ≪NO≫, ≪NW≫, ≪OK≫, ≪PSE≫, ≪RQ≫, ≪RPT≫, ≪SVC≫, ≪TFC≫, ≪DE≫, ≪TU≫, ≪TXT≫, ≪VA≫, ≪KA≫, ≪SPACE≫, ≪QSU≫, ≪QSW≫, ≪QSX≫】<br>
 　※≪SPACE≫の利用は推奨されません。代わりに半角スペースを利用することをお勧めします。<br>
