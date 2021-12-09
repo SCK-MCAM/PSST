@@ -1,4 +1,6 @@
 # PolybiusSquareSimplificationTool
+(旧プロジェクト名：CryptTableTool)<br>
+<br>
 ・システム要件<br>
 　Python 3.8.6以上<br>
 　NumPy<br>
